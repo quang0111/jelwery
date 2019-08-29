@@ -1,0 +1,148 @@
+[
+    {
+        "id":1,
+        "description":"Wedding ring with white gold diamond 14k KITAN'S wishes DDDDW002689",
+        "cost": "20,500",
+        "imgpath": "../assets/images/collections/wedding/anhhienthi_wedding/anh1.png",
+        "url" : "/wedding/wedding-detail-1"
+    },
+    {
+        "id": 2,
+        "description":"Wedding ring with white gold diamond 14k KITAN'S wishes DDDDW0026869",
+        "cost": "6,400",
+        "imgpath": "../assets/images/collections/wedding/anhhienthi_wedding/anh2.png",
+        "url" : "/wedding/wedding-detail-2"
+    },   
+    {
+        "id": 3,
+        "description":"Wedding ring with white gold diamond 14k KITAN'S wishes DDDDW002689",
+        "cost": "13,400",
+        "imgpath": "../assets/images/collections/wedding/anhhienthi_wedding/anh3.png",
+        "url" : "/wedding/wedding-detail-3"
+    },
+    {
+        "id": 4,
+        "name": "EARRINGS",
+        "description":"Wedding ring with white gold diamond 14k KITAN'S wishes DDDDW002689",
+        "cost": "25,400",
+        "imgpath": "../assets/images/collections/wedding/anhhienthi_wedding/anh4.png",
+        "url" : "/wedding/wedding-detail-4"
+    },
+    {
+        "id":5,
+        "description":"Wedding ring with white gold diamond 14k KITAN'S wishes DDDDW002689",
+        "cost": "25,400",
+        "imgpath": "../assets/images/collections/wedding/anhhienthi_wedding/anh5.png",
+        "url" : "/wedding/wedding-detail-5"
+    },
+    {
+        "id": 6,
+        "description":"Wedding ring with white gold diamond 14k KITAN'S wishes DDDDW002689",
+        "cost": "13,400",
+        "imgpath": "../assets/images/collections/wedding/anhhienthi_wedding/anh6.png",
+        "url" : "/wedding/wedding-detail-6"
+    },   
+    {
+        "id": 7,
+        "description":"Wedding ring with white gold diamond 14k KITAN'S wishes DDDDW002689",
+        "cost": "20,500",
+        "imgpath": "../assets/images/collections/wedding/anhhienthi_wedding/anh7.png",
+        "url" : "/wedding/wedding-detail-7"
+    },
+    {
+        "id": 8,
+        "description":"Wedding ring with white gold diamond 14k KITAN'S wishes DDDDW002689",
+        "cost": "16,400",
+        "imgpath": "../assets/images/collections/wedding/anhhienthi_wedding/anh8.png",
+        "url" : "/wedding/wedding-detail-8"
+    },
+    {
+        "id":9,
+        "description":"Wedding ring with white gold diamond 14k KITAN'S wishes DDDDW002689",
+        "cost": "20,500",
+        "imgpath": "../assets/images/collections/wedding/anhhienthi_wedding/anh9.png",
+        "url" : "/wedding/wedding-detail-9"
+
+    },
+    {
+        "id": 10,
+        "description":"Wedding ring with white gold diamond 14k KITAN'S wishes DDDDW002689",
+        "cost": "6,400",
+        "imgpath": "../assets/images/collections/wedding/anhhienthi_wedding/anh10.png",
+        "url" : "/wedding/wedding-detail-10"
+    },   
+    {
+        "id": 11,
+        "description":"Wedding ring with white gold diamond 14k KITAN'S wishes DDDDW002689",
+        "cost": "13,400",
+        "imgpath": "../assets/images/collections/wedding/anhhienthi_wedding/anh11.png",
+        "url" : "/wedding/wedding-detail-11"
+    },
+    {
+        "id": 12,
+        "name": "EARRINGS",
+        "description":"Wedding ring with white gold diamond 14k KITAN'S wishes DDDDW0026899",
+        "cost": "25,400",
+        "imgpath": "../assets/images/collections/wedding/anhhienthi_wedding/anh12.png",
+        "url" : "/wedding/wedding-detail-12"
+    },
+    {
+        "id":13,
+        "description":"Wedding ring with white gold diamond 14k KITAN'S wishes DDDDW002689",
+        "cost": "25,400 ",
+        "imgpath": "../assets/images/collections/wedding/anhhienthi_wedding/anh13.png",
+        "url" : "/wedding/wedding-detail-13"
+
+    },
+    {
+        "id": 14,
+        "description":"Wedding ring with white gold diamond 14k KITAN'S wishes DDDDW002689",
+        "cost": "13,400",
+        "imgpath": "../assets/images/collections/wedding/anhhienthi_wedding/anh14.png",
+        "url" : "/wedding/wedding-detail-14"
+    },   
+    {
+        "id": 15,
+        "description":"Wedding ring with white gold diamond 14k KITAN'S wishes DDDDW002689",
+        "cost": "20,500",
+        "imgpath": "../assets/images/collections/wedding/anhhienthi_wedding/anh15.png",
+        "url" : "/wedding/wedding-detail-15"
+    },
+    {
+        "id": 16,
+        "description":"Wedding ring with white gold diamond 14k KITAN'S wishes DDDDW002689",
+        "cost": "16,400",
+        "imgpath": "../assets/images/collections/wedding/anhhienthi_wedding/anh16.png",
+        "url" : "/wedding/wedding-detail-16"
+    },
+    {
+        "id":17,
+        "description":"Wedding ring with white gold diamond 14k KITAN'S wishes DDDDW002689",
+        "cost": "20,500",
+        "imgpath": "../assets/images/collections/wedding/anhhienthi_wedding/anh17.png",
+        "url" : "/wedding/wedding-detail-17"
+
+    },
+    {
+        "id": 18,
+        "description":"Wedding ring with white gold diamond 14k KITAN'S wishes DDDDW002689",
+        "cost": "6,400",
+        "imgpath": "../assets/images/collections/wedding/anhhienthi_wedding/anh18.png",
+        "url" : "/wedding/wedding-detail-18"
+    },   
+    {
+        "id": 19,
+        "description":"Wedding ring with white gold diamond 14k KITAN'S wishes DDDDW002689",
+        "cost": "13,400",
+        "imgpath": "../assets/images/collections/wedding/anhhienthi_wedding/anh19.png",
+        "url" : "/wedding/wedding-detail-19"
+    },
+    {
+        "id": 20,
+        "name": "EARRINGS",
+        "description":"Wedding ring with white gold diamond 14k KITAN'S wishes DDDDW002689",
+        "cost": "25,400",
+        "imgpath": "../assets/images/collections/wedding/anhhienthi_wedding/anh20.png",
+        "url" : "/wedding/wedding-detail-20"
+    }
+]

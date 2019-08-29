@@ -1,0 +1,68 @@
+[
+    {
+        "id":1,
+        "name":"BRACELETS",
+        "description":"10k white gold necklace with stone Topaz Kitan's imitation KHPXW003",
+        "cost": "300 ",
+        "imgpath": "../assets/images/home/jewelry/bangles.jpg",
+        "url" : "/bracelet"
+
+    },
+    {
+        "id": 2,
+        "name": "CHAINS",
+        "description":"15k white gold necklace with stone Topaz Kitan's imitation KHPXW003",
+        "cost": "150",
+        "imgpath": "../assets/images/home/jewelry/chains-logo.jpg",
+        "url":"/chain"
+    },   
+    {
+        "id": 3,
+        "name": "PENDANTS",
+        "description":"20k white gold necklace with stone Topaz Kitan's imitation KHPXW003",
+        "cost": "100",
+        "imgpath": "../assets/images/home/jewelry/charms-pendants-logo.jpg",
+        "url":"/pendant"   
+    },
+    {
+        "id": 4,
+        "name": "EARRINGS",
+        "description":"12k white gold necklace with stone Topaz Kitan's imitation KHPXW003",
+        "cost": "700",
+        "imgpath": "../assets/images/home/jewelry/earrings-logo.jpg",
+        "url":"/earrings"
+    },
+    {
+        "id":5,
+        "name":"FINE DIAMONDS",
+        "description":"15k white gold necklace with stone Topaz Kitan's imitation KHPXW003",
+        "cost": "200 ",
+        "imgpath": "../assets/images/home/jewelry/fine-diamonds-logo.jpg",
+        "url" : "/diamonds"
+
+    },
+    {
+        "id": 6,
+        "name": "CHARM-RING",
+        "description":"10k white gold necklace with stone Topaz Kitan's imitation KHPXW003",
+        "cost": "300",
+        "imgpath": "../assets/images/home/jewelry/necklaces-logo.jpg",
+        "url":"/charm-ring"
+    },   
+    {
+        "id": 7,
+        "name": "PEARLS",
+        "description":"30k white gold necklace with stone Topaz Kitan's imitation KHPXW003",
+        "cost": "500",
+        "imgpath": "../assets/images/home/jewelry/pearls-logo.jpg",
+        "url":"/pearls"  
+    },
+    {
+        "id": 8,
+        "name": "RINGS",
+        "description":"25k white gold necklace with stone Topaz Kitan's imitation KHPXW003",
+        "cost": "1000",
+        "imgpath": "../assets/images/home/jewelry/rings-logo.jpg",
+        "url":"/rings"
+    }
+]

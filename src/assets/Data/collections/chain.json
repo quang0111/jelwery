@@ -1,0 +1,119 @@
+[
+    {
+        "id":1,
+        "description":"Wedding ring male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "20,500",
+        "imgpath": "../assets/images/collections/chain/anhhienthi_chain/anh1.jpg",
+        "url" : "/chain/detail-chain"
+
+    },
+    {
+        "id": 2,
+        "description":"Wedding ring male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "6,400",
+        "imgpath": "../assets/images/collections/chain/anhhienthi_chain/anh2.png",
+        "url" : "/chain/detail-chain"
+    },   
+    {
+        "id": 3,
+        "description":"Wedding ring male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "13,400",
+        "imgpath": "../assets/images/collections/chain/anhhienthi_chain/anh3.jpg",
+        "url" : "/chain/detail-chain"
+    },
+    {
+        "id": 4,
+        "name": "EARRINGS",
+        "description":"Wedding ring male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "25,400",
+        "imgpath": "../assets/images/collections/chain/anhhienthi_chain/anh4.png",
+        "url" : "/chain/detail-chain"
+    },
+    {
+        "id":5,
+        "description":"Wedding ring male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "25,400",
+        "imgpath": "../assets/images/collections/chain/anhhienthi_chain/anh5.jpg",
+        "url" : "/chain/detail-chain"
+    },
+    {
+        "id": 6,
+        "description":"Wedding ring male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "13,400",
+        "imgpath": "../assets/images/collections/chain/anhhienthi_chain/anh6.jpg",
+        "url" : "/chain/detail-chain"
+    },   
+    {
+        "id": 7,
+        "description":"Wedding ring male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "20,500",
+        "imgpath": "../assets/images/collections/chain/anhhienthi_chain/anh7.png",
+        "url" : "/chain/detail-chain"
+    },
+    {
+        "id": 8,
+        "description":"Wedding ring male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "16,400",
+        "imgpath": "../assets/images/collections/chain/anhhienthi_chain/anh8.png",
+        "url" : "/chain/detail-chain"
+    },
+    {
+        "id":9,
+        "description":"Wedding ring male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "20,500",
+        "imgpath": "../assets/images/collections/chain/anhhienthi_chain/anh9.png",
+        "url" : "/chain/detail-chain"
+
+    },
+    {
+        "id": 10,
+        "description":"Wedding ring male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "6,400",
+        "imgpath": "../assets/images/collections/chain/anhhienthi_chain/anh10.png",
+        "url" : "/chain/detail-chain"
+    },   
+    {
+        "id": 11,
+        "description":"Wedding ring male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "13,400",
+        "imgpath": "../assets/images/collections/chain/anhhienthi_chain/anh11.png",
+        "url" : "/chain/detail-chain"
+    },
+    {
+        "id": 12,
+        "name": "EARRINGS",
+        "description":"Wedding ring male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "25,400",
+        "imgpath": "../assets/images/collections/chain/anhhienthi_chain/anh12.png",
+        "url" : "/chain/detail-chain"
+    },
+    {
+        "id":13,
+        "description":"Wedding ring male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "25,400 ",
+        "imgpath": "../assets/images/collections/chain/anhhienthi_chain/anh13.png",
+        "url" : "/chain/detail-chain"
+
+    },
+    {
+        "id": 14,
+        "description":"Wedding ring male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "13,400",
+        "imgpath": "../assets/images/collections/chain/anhhienthi_chain/anh14.png",
+        "url" : "/chain/detail-chain"
+    },   
+    {
+        "id": 15,
+        "description":"Wedding ring male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "20,500",
+        "imgpath": "../assets/images/collections/chain/anhhienthi_chain/anh15.png",
+        "url" : "/chain/detail-chain"
+    },
+    {
+        "id": 16,
+        "description":"Wedding ring male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "16,400",
+        "imgpath": "../assets/images/collections/chain/anhhienthi_chain/anh16.png",
+        "url" : "/chain/detail-chain"
+    }
+]

@@ -1,0 +1,11 @@
+div .text-center a{
+	text-decoration: none;
+	color: #424242;
+	font-size: 16px;
+}
+div h5{
+	color: orange;
+}
+div .text-center a:hover{
+	color: gray;
+}

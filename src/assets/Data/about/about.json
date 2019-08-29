@@ -1,0 +1,35 @@
+[
+    {
+        "id":1,
+        "name":"Timothy Beck",
+        "job": "IT Expert",
+        "info":"timoinfo@example.com",
+        "imgpath": "../assets/images/about/anhhienthi/1.jpg",
+        "url" : ""
+
+    },
+    {
+        "id":2,
+        "name":"Sarah Sanchez",
+        "job": "Web Designer",
+        "info":"sarainfo@example.com",
+        "imgpath": "../assets/images/about/anhhienthi/2.jpg",
+        "url" : ""
+    },   
+    {
+        "id":3,
+        "name":"Edwin Adams",
+        "job": "Content Writer",
+        "info":"edwininfo@example.com",
+        "imgpath": "../assets/images/about/anhhienthi/3.jpg",
+        "url" : ""
+    },
+    {
+        "id":4,
+        "name":"Anny Adams",
+        "job": "Marketing officer",
+        "info":"annyinfo@example.com",
+        "imgpath": "../assets/images/about/anhhienthi/4.jpg",
+        "url" : ""
+    }
+]

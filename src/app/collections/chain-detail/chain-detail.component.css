@@ -1,0 +1,27 @@
+section div p a{
+    text-decoration: none;
+    color: #424242;
+}
+section div p a:hover{
+	color:#97E3D3;
+}
+section div h5.text-center{
+    color: orange;
+}
+
+/* gia nhập cùng */
+section div span.col-md-4{
+    color:black;
+    font-size: 35px;
+}
+section div nav ol.breadcrumb{
+    background-color: white;
+    padding:0px;
+    margin: 0px;
+}
+section div nav ol li a{
+    text-decoration: none;
+}
+section div nav ol li a:hover{
+   color: orange;
+}

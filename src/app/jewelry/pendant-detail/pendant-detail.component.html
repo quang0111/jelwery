@@ -1,0 +1,216 @@
+
+<div class="container">
+  <section>
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+  
+      </ol>
+  
+      <!-- Wrapper for slides -->
+     
+  
+      <div class="carousel-inner" role="listbox">
+        <div class="item active">
+          <a routerLink="/home"><img src="../assets/images/collections/watch/slide_watch/slide1.jpg" style="width: 100%"></a>
+          <div class="carousel-caption">
+          </div>      
+        </div>
+  
+        <div class="item">
+            <a routerLink="/home"><img src="../assets/images/collections/watch/slide_watch/slide2.jpg" style="width: 100%"></a>
+            <div class="carousel-caption"></div>      
+        </div>
+  
+        <div class="item">
+            <a routerLink="/home"><img src="../assets/images/collections/watch/slide_watch/slide3.jpg" style="width: 100%"></a>
+            <div class="carousel-caption">
+          </div>      
+        </div>
+  
+      </div>
+      
+  
+  
+      <!-- Left and right controls -->
+      <a class="left carousel-control" routerLink="/homemyCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" routerLink="/homemyCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+  </section>
+  </div>
+
+<br>
+
+<div *ngIf="pendantdetail">
+  <section>
+    <div class="container">
+      <div class="row" >
+        <div class="col-md-12" *ngFor="let iteampendantdetail of pendantdetail">
+          <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+              <li class="breadcrumb-item"><a routerLink="/home">HOME</a></li>
+              <li class="breadcrumb-item"><a routerLink="/home">JEWELRY</a></li>
+              <li class="breadcrumb-item"><a routerLink="/pendant">CHARM & PENDANTS</a></li>
+              <li class="breadcrumb-item active" aria-current="page" style="color: black">{{iteampendantdetail.link}}</li>
+            </ol>
+          </nav>
+        </div>
+      </div>
+      <hr>
+      <div class="row"*ngFor="let iteampendantdetail of pendantdetail">
+        <div class="col-md-12">
+          <div class="card">
+            <h4 class="card-header">{{iteampendantdetail.link}}</h4>
+          </div>   
+        </div>
+      </div>
+
+      <div class="row" style="margin-top: 20px;">
+        <div class="col-md-4" *ngFor="let iteampendantdetail of pendantdetail">
+  
+          <div class="card-body"> 
+            <img src="{{iteampendantdetail.imgpath}}" class="card-img img-responsive"> 
+          </div>
+        </div>
+
+        <div class="col-md-4" *ngFor="let iteampendantdetail of pendantdetail">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="text-center" style="color: black"> SPECIFICATIONS INTRODUCTION </h5>
+              
+            </div>
+            <ul class="list-group list-group-flush">
+
+              <li class="list-group-item">{{iteampendantdetail.introductions[0].brand}}</li>
+              <li class="list-group-item">{{iteampendantdetail.introductions[0].collection}}</li>
+              <li class="list-group-item">{{iteampendantdetail.introductions[0].mainstone}}</li>
+              <li class="list-group-item">{{iteampendantdetail.introductions[0].Ripestonecolor}}</li>
+              <li class="list-group-item">{{iteampendantdetail.introductions[0].Gender}}</li>
+              <li class="list-group-item">{{iteampendantdetail.introductions[0].Occasiongifts}}</li>
+              <li class="list-group-item">{{iteampendantdetail.introductions[0].Species}}</li>
+              <li class="list-group-item">{{iteampendantdetail.introductions[0].Referencegoldweight}}</li>
+  
+            </ul>
+          </div>
+        </div>
+  
+
+        <div class="col-md-4"*ngFor="let iteampendantdetail of pendantdetail">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="text-center" style="color: black">BUYING AND PREFERRED</h5>
+            </div>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item">{{iteampendantdetail.bought[0].introduce}}</li>
+              <li class="list-group-item">{{iteampendantdetail.bought[0].code}}</li>
+              <li class="list-group-item">{{iteampendantdetail.bought[0].Material}}</li>
+              <li class="list-group-item">{{iteampendantdetail.bought[0].price}} USD</li>
+              <li class="list-group-item">{{iteampendantdetail.bought[0].Status}}</li>
+              <li class="list-group-item">
+                <select class="js-example-basic-single form-control" name="state">
+                  <option value="">CHOOSE SIZE</option>
+                  <option value="">50</option>
+                  <option value="">53</option>
+                  <option value="">55</option>
+                  <option value="">56</option>
+                </select>
+              </li>
+
+              <li class="list-group-item">
+                <form style="border: none">
+                  <div class="form-group row">
+                    <div class="col-sm-6">
+                      <button type="button" class="btn btn-warning" style="width: 100%">Add to the shopping</button>
+                    </div>
+                    <div class="col-sm-6">
+                      <button type="button" class="btn btn-warning" style="width: 100%">Choose to buy now</button>
+                    </div>
+                  </div>
+                </form>
+              </li>
+
+            </ul>
+          </div>
+        </div>
+
+      </div>
+      <hr>
+    </div>
+  </section>
+ <br>
+  <section>
+    <div class="container">
+      <h4>SIMILAR PRODUCT</h4>
+      <div class="row" *ngFor="let iteampendantdetail of pendantdetail">
+
+        <div class="col-sx-12 col-sm-6 col-md-3">
+          <a href="{{iteampendantdetail.similarproduct[0].url}}"><img src="{{iteampendantdetail.similarproduct[0].img1}}" class="img-responsive center-block"></a>
+          <p class="text-center"><a href="{{iteampendantdetail.similarproduct[0].url}}">{{iteampendantdetail.similarproduct[0].decription}}</a></p>
+          <h5 class="text-center">{{iteampendantdetail.similarproduct[0].price}} USD</h5>
+        </div>
+  
+        <div class="col-sx-12 col-sm-6 col-md-3">
+          <a href="{{iteampendantdetail.similarproduct[0].url}}"><img src="{{iteampendantdetail.similarproduct[1].img2}}" class="img-responsive center-block"></a>
+          <p class="text-center"><a href="{{iteampendantdetail.similarproduct[0].url}}">{{iteampendantdetail.similarproduct[1].decription}}</a></p>
+          <h5 class="text-center">{{iteampendantdetail.similarproduct[1].price}} USD</h5>
+        </div>
+
+        <div class="col-sx-12 col-sm-6 col-md-3">
+          <a href="{{iteampendantdetail.similarproduct[0].url}}"><img src="{{iteampendantdetail.similarproduct[2].img3}}" class="img-responsive center-block"></a>
+          <p class="text-center"><a href="{{iteampendantdetail.similarproduct[0].url}}">{{iteampendantdetail.similarproduct[2].decription}}</a></p>
+          <h5 class="text-center">{{iteampendantdetail.similarproduct[2].price}} USD</h5>
+        </div>
+
+        <div class="col-sx-12 col-sm-6 col-md-3">
+          <a href="{{iteampendantdetail.similarproduct[0].url}}"><img src="{{iteampendantdetail.similarproduct[3].img4}}" class="img-responsive center-block"></a>
+          <p class="text-center"><a href="{{iteampendantdetail.similarproduct[0].url}}">{{iteampendantdetail.similarproduct[3].decription}}</a></p>
+          <h5 class="text-center">{{iteampendantdetail.similarproduct[3].price}} USD</h5>
+        </div>
+
+      </div>
+    </div>
+  </section>
+  
+  <section>
+    <div class="container">
+      <hr>
+      <div class="row" *ngFor="let iteampendantdetail of pendantdetail">
+        <div class="col-md-12">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title" style="color: #A9198B"><b>PRODUCT INFORMATION</b></h5>
+              <h4 class="card-title text-center">{{iteampendantdetail.content[0].introduce}}</h4>
+              <p class="card-text">{{iteampendantdetail.content[0].content1}}</p>
+  
+              <h5 class="card-title"><strong style="color: #A9198B">{{iteampendantdetail.content[0].introduce1}}</strong></h5>
+              <!-- <img src="{{iteampendantdetail.content[0].imgdescription1}}" class="img-responsive center-block"> -->
+                <!-- <h5 class="text-center" style="color: orange">{{iteampendantdetail.content[0].note1}}</h5> -->
+  
+              <p  class="card-text">{{iteampendantdetail.content[0].content2}}</p>
+              <img src="{{iteampendantdetail.content[0].imgdescription}}" class="img-responsive center-block">
+              <h5 class="text-center"><i>{{iteampendantdetail.content[0].note2}}</i></h5>
+              <p  class="card-text">{{iteampendantdetail.content[0].content3}}</p>
+  
+              <h5 class="card-title"><strong style="color: #A9198B">{{iteampendantdetail.content[0].introduce2}}</strong></h5>
+              <p class="card-title">{{iteampendantdetail.content[0].content4}}</p>
+            </div>
+          </div>  
+        </div>
+      </div>
+    </div> 
+  </section>
+  <br>
+
+  
+
+    </div>
+

@@ -1,0 +1,16 @@
+section div p a{
+    text-decoration: none;
+    color: #424242;
+}
+section div p a:hover{
+	color:#97E3D3;
+}
+section div h5.text-center{
+    color: orange;
+}
+section div nav ol.breadcrumb{
+    background-color: white;
+    padding:0px;
+    margin: 0px;
+}
+

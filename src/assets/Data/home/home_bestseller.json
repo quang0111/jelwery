@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "name":"",
+        "description":"15k white gold necklace with stone Topaz Kitan's imitation KHPXW003",
+        "cost": "620",
+        "imgpath": "../assets/images/home/bestseller/1.jpg",
+        "url" : "/chain"
+    },
+    {
+        "id": 2,
+        "name":"",
+        "description":"15k white gold necklace with stone Topaz Kitan's imitation KHPXW003",
+        "cost": "1,020",
+        "imgpath": "../assets/images/home/bestseller/2.jpg",
+        "url" : "/earrings"
+    },   
+    {
+        "id": 3,
+        "name":"",
+        "description":"15k white gold necklace with stone Topaz Kitan's imitation KHPXW003",
+        "cost": "620",
+        "imgpath": "../assets/images/home/bestseller/3.jpg",
+        "url" : "/pendant"  
+    },
+    {
+        "id": 4,
+        "name":"",
+        "description":"15k white gold necklace with stone Topaz Kitan's imitation KHPXW003",
+        "cost": "510",
+        "imgpath": "../assets/images/home/bestseller/4.jpg",
+        "url" : "/chain"
+    },
+    {
+        "id":5,
+        "name":"",
+        "description":"15k white gold necklace with stone Topaz Kitan's imitation KHPXW003",
+        "cost": "150",
+        "imgpath": "../assets/images/home/bestseller/5.jpg",
+        "url" : "/earrings"
+
+    },
+    {
+        "id": 6,
+        "name":"",
+        "description":"15k white gold necklace with stone Topaz Kitan's imitation KHPXW003",
+        "cost": "700",
+        "imgpath": "../assets/images/home/bestseller/6.jpg",
+        "url" : "/pendant"
+    }  
+   
+]

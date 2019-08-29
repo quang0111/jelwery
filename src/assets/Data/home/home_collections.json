@@ -1,0 +1,35 @@
+[
+    {
+        "id":1,
+        "name":"WEDDING",
+        "description":"15k white gold necklace with stone Topaz Kitan's imitation KHPXW003",
+        "cost": "200 ",
+        "imgpath": "../assets/images/home/collections/wedding-logo.jpg",
+        "url" : "/wedding"
+
+    },
+    {
+        "id": 2,
+        "name": "CHAIN LETTERS",
+        "description":"10k white gold necklace with stone Topaz Kitan's imitation KHPXW003",
+        "cost": "300",
+        "imgpath": "../assets/images/home/collections/chain-letters-logo.jpg",
+        "url":"/chain"
+    },   
+    {
+        "id": 3,
+        "name": "DREAMCATCHER",
+        "description":"25k white gold necklace with stone Topaz Kitan's imitation KHPXW003",
+        "cost": "50",
+        "imgpath": "../assets/images/home/collections/dream-catcher-logo.jpg",
+        "url":"/dreamcatcher" 
+    },
+    {
+        "id": 4,
+        "name": "WATCH",
+        "description":"20k white gold necklace with stone Topaz Kitan's imitation KHPXW003",
+        "cost": "700",
+        "imgpath": "../assets/images/home/collections/watch.jpg",
+        "url":"/watch"
+    }
+]

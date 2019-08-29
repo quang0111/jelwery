@@ -1,0 +1,75 @@
+[
+    {
+        "id":1,
+        "link":"CHARM BEADS DIY DIY PNJSILVER ENAMEL 0000K060202",
+        "imgpath": "../assets/images/detail/charmring-detail/charmring-product/avatar/avatar.png",
+        "introductions":[
+            {
+                "brand":"Brand: KITAN'S Silver",
+                "collection":"Collection: Spring Vibe",
+                "mainstone":"Main stone: Pearl",
+                "Ripestonecolor":"Ripe stone color:Many colors",
+                "Gender":"Gender: female",
+                "Occasiongifts":"Occasion gifts: Birthday-love New Year holidays",
+                "Species":"Species: Products by set",
+                "Referencegoldweight":"Reference gold weight: gold segment"
+            }
+        ],  
+        "bought":[
+            {
+                "introduce":"18k KITAN'S general diamond wedding ring double",
+                "code":"CODE:GNDD00Y000611-GNDD00Y000604",
+                "Material":"Material: Silver",
+                "price":"Price: 20,500",
+                "Status":"Status: In stock"
+            }
+        ],
+        "similarproduct":[
+            {
+                "img1":"../assets/images/detail/charmring-detail/charmring-product/same-product/1.png",
+                "decription":"Wedding ring with white gold diamond 14k KITAN'S wishes DDDDW002689",
+                "price":"13,400",
+                "url":"/charm-ring/detail-charm-ring"
+        
+            },
+            {
+                "img2":"../assets/images/detail/charmring-detail/charmring-product/same-product/2.png",
+                "decription":"Wedding ring with white gold diamond 14k KITAN'S wishes DDDDW002689",
+                "price":"6,400",
+                "url":"/charm-ring/detail-charm-ring"
+            }
+            ,
+            {
+                "img3":"../assets/images/detail/charmring-detail/charmring-product/same-product/3.png",
+                "decription":"Wedding ring male 14k white gold KITAN'S general double DD00W000602",
+                "price":"25,000",
+                "url":"/charm-ring/detail-charm-ring"
+            }
+            ,
+            {
+                "img4":"../assets/images/detail/charmring-detail/charmring-product/same-product/4.png",
+                "decription":"Women's diamond wedding ring with golden diamond KITAN'S DDDDW002689",
+                "price":"13,400",
+                "url":"/charm-ring/detail-charm-ring"
+            }
+        ],
+        "content":[
+            {
+                "introduce":"CHARM BEADS DIY DIY PNJSILVER ENAMEL 0000K060202",
+               
+                "introduce1":"GRADE, LUXURY WITH DIAMOND HANDS KITAN'S IMITATION ",
+                "introduce2":"SILVER HANDS HIGHLIGHTS OF ANY COSTUME",
+
+                "imgdescription":"../assets/images/detail/charmring-detail/charmring-product/img-description/description.jpg",                
+                "note1":"Diamond bracelets - Diamond jewelry celebrate graduation day",
+                "note2":"Diamonds symbolize eternal beauty for women",
+                
+                "content1":"There are no bad women, only women don't know how to do beauty. For a long time, beauty needs have been present in every woman's life. And in the enduring beauty, PNJ jewelry always plays an important role to create perfect beauty, purity, and symbol of eternal beauty for women. Heart-shaped diamond bracelets are also the beginning of a new journey in life: Graduation, First love, First-time diamond jewelry...",
+                "content2":"With slender designs combined with heart-shaped motifs with diamond design is quite impressive, creating gentle but equally beautiful beauty. With reasonable price and modern and youthful style, shaking hands with the beautiful First Diamond collection of women and owning for themselves as a reward gift for trying and marking the new beginning for the original Dear. And also the line of jewelry that many parents give to their children on graduation day like blessing and encouragement.",
+                "content3":"Diamond - the eternal symbol of eternal beauty as well as the spirit of women in the new age: independence, strong, confident self-image values ​​with their own passion and talent. That story has become an intense inspiration to create the FIRST DIAMOND collection each product is a medal, the declaration of young women proactively affirming their own lifestyle style ",
+                "content4":"Men's bangles are made of high quality silver material 92.5 according to world quality standards. Bud piercings are not simply beauty, but also show a strong personality. And is one of the accessories jewelry 'not picky costumes' so he can mix different styles to create his own style. "
+            }
+        ]
+    }
+
+]

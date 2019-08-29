@@ -1,0 +1,149 @@
+[
+    {
+        "id":1,
+        "description":"20K gold diamond bracelet ring Pascal joint double AAK10061-00604",
+        "cost": "20,500",
+        "imgpath": "../assets/images/jewelry/bracelet/anhhienthi_bracelet/anh1.png",
+        "url" : "/bracelet/detail-bracelet"
+
+    },
+    {
+        "id": 2,
+        "description":"20K gold diamond bracelet ring Pascal joint double AAK10061-00604",
+        "cost": "6,400",
+        "imgpath": "../assets/images/jewelry/bracelet/anhhienthi_bracelet/anh2.png",
+        "url" : "/bracelet/detail-bracelet"
+    },   
+    {
+        "id": 3,
+        "description":"20K gold diamond bracelet ring Pascal joint double AAK10061-00604",
+        "cost": "13,400",
+        "imgpath": "../assets/images/jewelry/bracelet/anhhienthi_bracelet/anh3.png",
+        "url" : "/bracelet/detail-bracelet"
+    },
+    {
+        "id": 4,
+        "name": "EARRINGS",
+        "description":"20K gold diamond bracelet ring Pascal joint double AAK10061-00604",
+        "cost": "25,400",
+        "imgpath": "../assets/images/jewelry/bracelet/anhhienthi_bracelet/anh4.png",
+        "url" : "/bracelet/detail-bracelet"
+    },
+    {
+        "id":5,
+        "description":"20K gold diamond bracelet ring Pascal joint double AAK10061-00604",
+        "cost": "25,400",
+        "imgpath": "../assets/images/jewelry/bracelet/anhhienthi_bracelet/anh5.png",
+        "url" : "/bracelet/detail-bracelet"
+    },
+    {
+        "id": 6,
+        "description":"20K gold diamond bracelet ring Pascal joint double AAK10061-00604",
+        "cost": "13,400",
+        "imgpath": "../assets/images/jewelry/bracelet/anhhienthi_bracelet/anh6.png",
+        "url" : "/bracelet/detail-bracelet"
+    },   
+    {
+        "id": 7,
+        "description":"20K gold diamond bracelet ring Pascal joint double AAK10061-00604",
+        "cost": "20,500",
+        "imgpath": "../assets/images/jewelry/bracelet/anhhienthi_bracelet/anh7.png",
+        "url" : "/bracelet/detail-bracelet"
+    },
+    {
+        "id": 8,
+        "description":"20K gold diamond bracelet ring Pascal joint double AAK10061-00604",
+        "cost": "16,400",
+        "imgpath": "../assets/images/jewelry/bracelet/anhhienthi_bracelet/anh8.png",
+        "url" : "/bracelet/detail-bracelet"
+    },
+    {
+        "id":9,
+        "description":"20K gold diamond bracelet ring Pascal joint double AAK10061-00604",
+        "cost": "20,500",
+        "imgpath": "../assets/images/jewelry/bracelet/anhhienthi_bracelet/anh9.png",
+        "url" : "/bracelet/detail-bracelet"
+
+    },
+    {
+        "id": 10,
+        "description":"20K gold diamond bracelet ring Pascal joint double AAK10061-00604",
+        "cost": "6,400",
+        "imgpath": "../assets/images/jewelry/bracelet/anhhienthi_bracelet/anh10.png",
+        "url" : "/bracelet/detail-bracelet"
+    },   
+    {
+        "id": 11,
+        "description":"20K gold diamond bracelet ring Pascal joint double AAK10061-00604",
+        "cost": "13,400",
+        "imgpath": "../assets/images/jewelry/bracelet/anhhienthi_bracelet/anh11.png",
+        "url" : "/bracelet/detail-bracelet"
+    },
+    {
+        "id": 12,
+        "name": "EARRINGS",
+        "description":"20K gold diamond bracelet ring Pascal joint double AAK10061-00604",
+        "cost": "25,400",
+        "imgpath": "../assets/images/jewelry/bracelet/anhhienthi_bracelet/anh12.png",
+        "url" : "/bracelet/detail-bracelet"
+    },
+    {
+        "id":13,
+        "description":"20K gold diamond bracelet ring Pascal joint double AAK10061-00604",
+        "cost": "25,400 ",
+        "imgpath": "../assets/images/jewelry/bracelet/anhhienthi_bracelet/anh13.png",
+        "url" : "/bracelet/detail-bracelet"
+
+    },
+    {
+        "id": 14,
+        "description":"20K gold diamond bracelet ring Pascal joint double AAK10061-00604",
+        "cost": "13,400",
+        "imgpath": "../assets/images/jewelry/bracelet/anhhienthi_bracelet/anh14.png",
+        "url" : "/bracelet/detail-bracelet"
+    },   
+    {
+        "id": 15,
+        "description":"20K gold diamond bracelet ring Pascal joint double AAK10061-00604",
+        "cost": "20,500",
+        "imgpath": "../assets/images/jewelry/bracelet/anhhienthi_bracelet/anh15.png",
+        "url" : "/bracelet/detail-bracelet"
+    },
+    {
+        "id": 16,
+        "description":"20K gold diamond bracelet ring Pascal joint double AAK10061-00604",
+        "cost": "16,400",
+        "imgpath": "../assets/images/jewelry/bracelet/anhhienthi_bracelet/anh16.png",
+        "url" : "/bracelet/detail-bracelet"
+    },
+    {
+        "id":17,
+        "description":"20K gold diamond bracelet ring Pascal joint double AAK10061-00604",
+        "cost": "20,500",
+        "imgpath": "../assets/images/jewelry/bracelet/anhhienthi_bracelet/anh17.png",
+        "url" : "/bracelet/detail-bracelet"
+
+    },
+    {
+        "id": 18,
+        "description":"20K gold diamond bracelet ring Pascal joint double AAK10061-00604",
+        "cost": "6,400",
+        "imgpath": "../assets/images/jewelry/bracelet/anhhienthi_bracelet/anh18.png",
+        "url" : "/bracelet/detail-bracelet"
+    },   
+    {
+        "id": 19,
+        "description":"20K gold diamond bracelet ring Pascal joint double AAK10061-00604",
+        "cost": "13,400",
+        "imgpath": "../assets/images/jewelry/bracelet/anhhienthi_bracelet/anh19.png",
+        "url" : "/bracelet/detail-bracelet"
+    },
+    {
+        "id": 20,
+        "name": "EARRINGS",
+        "description":"20K gold diamond bracelet ring Pascal joint double AAK10061-00604",
+        "cost": "25,400",
+        "imgpath": "../assets/images/jewelry/bracelet/anhhienthi_bracelet/anh20.png",
+        "url" : "/bracelet/detail-bracelet"
+    }
+]

@@ -1,0 +1,61 @@
+<br><br><br>
+
+<section class="container">
+<div>
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/Q4jrgL6eLDE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</section>
+
+  <section>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="card">
+              
+              <div class="card-body">
+                <h3 class="card-title text-center" style="color: tomato" >WELCOME TO KITAN'S JEWELRY STORE</h3>
+                <p class="card-text">My approach to jewellery is very personal; at each stage of my life, the inspiration behind my work has changed to reflect new influences,
+                   and new ways of thinking about ideas that have fascinated me since my jewellery journey began. I have always tried to translate and articulate a mood, drawing 
+                   on my own creative instincts, but also the way our lives and needs are changing.
+                    There is no doubt that growing up has a profound effect on the things you think about when you start to design. With young children at home, Links of London, 
+                    my first business, was all about making gifting easier, creating products that would make people smile delivered in luxurious packaging.
+                    Two decades later, Annoushka is a response to a more reflective moment in my life. I’m really inspired by creating precious jewellery designed by women for women, 
+                    jewellery that is relevant to the lives we live today and the people we will become tomorrow."
+                    ​​"I create what I like to wear. It must be comfortable, versatile, unfussy, yet also te​ll a story. I love colour and my jewellery reflects this."
+                    Annoushka aims to bring a strong female voice to the traditional world of fine jewellery, and to create pieces that elegantly adapt to the lives of the increasing 
+                    number of women buying jewellery for themselves. "Entrepreneurship has always been in my spirit, something I inherited from so many inspirational people I’ve been 
+                    lucky enough to have in my life – both family and friends. As a successful businesswoman, I’m driven to support other women to realise their own dreams through our 
+                    charitable work for Give A Future.
+                    Surrounded by so many great women, its no surprise that the unique emotions and stories behind a woman’s jewellery have always fascinated me. I’ve always travelled 
+                    the world to find extraordinary stones and inspirational craftsmanship, learning everything I know at the craftsman’s bench. Great precious jewels have to have fluidity,
+                     tactility, detail and playfulness, with a mix of golds, textures and above all – colour. One of my greatest inspirations is colour, the key that defines the bold 
+                     combination of playfulness, wearability and daily glamour that is my trademark.
+                    Ultimately, jewellery is about character: glamour, passion and humour – of the craftsman, the designer and the woman who will ultimately wear it, creating precious 
+                    jewellery for remarkable wome</p>
+
+              </div>
+            </div>  
+          </div>
+        </div>
+      </div> 
+    </section>
+
+    <br>
+      
+    <div id="home" class="container">
+        <h4>OUR TEAM</h4>
+        <div class="row" *ngIf="about"> 
+          <div class="col-md-3" *ngFor="let iteamabout of about"> 
+            <div class="thumbnail">
+              <a href="{{iteamabout.url}}">
+                <img src="{{iteamabout.imgpath}}" style="width:100%">
+              </a>  
+              <div class="caption">
+                <p>{{iteamabout.name}}</p>
+                <a href="wedding.html">{{iteamabout.job}}</a>
+                <p><b>{{iteamabout.info}}</b></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>

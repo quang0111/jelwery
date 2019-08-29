@@ -1,0 +1,183 @@
+ 
+  <section>
+      <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+          <li data-target="#myCarousel" data-slide-to="1"></li>
+          <li data-target="#myCarousel" data-slide-to="2"></li>    
+        </ol>
+    
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+          <div class="item active">
+            <a href="#"><img src="../assets/images/home/header/1.jpg" style="width: 100%"></a>
+            <div class="carousel-caption">
+            </div>      
+          </div>
+    
+          <div class="item">
+            <a href="#"><img src="../assets/images/home/header/2.jpg" style="width: 100%"></a>
+            <div class="carousel-caption"></div>      
+          </div>
+    
+          <div class="item">
+            <a href="#"><img src="../assets/images/home/header/3.jpg" style="width: 100%"></a>
+            <div class="carousel-caption">
+            </div>      
+          </div>
+    
+        </div>
+    
+        <!-- Left and right controls -->
+        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+          <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+          <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
+    </section>
+  
+  
+  <div id="home" class="container">
+    <h4>COLLECTIONS</h4>
+    <div class="row" *ngIf="collections"> 
+      <div class="col-xs-12 col-sm-3" *ngFor="let iteamcollections of collections"> 
+        <div class="thumbnail">
+          <a href="{{iteamcollections.url}}">
+            <img src="{{iteamcollections.imgpath}}" style="width:100%">
+          </a>  
+          <div class="caption">
+            <p>{{iteamcollections.name}}</p>
+            <a href="{{iteamcollections.url}}">{{iteamcollections.description}}</a>
+            <p><b>{{iteamcollections.cost}} USD</b></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div id="home" class="container">
+    <h4>JEWELRY</h4>
+    <div class="row" *ngIf ="jewelry">
+      <div class="col-xs-12 col-sm-3" *ngFor = "let iteamjewelry of jewelry">
+        <div class="thumbnail" >
+          <a href="{{iteamjewelry.url}}">
+            <img src="{{iteamjewelry.imgpath}}" style="width:100%">
+          </a>  
+          <div class="caption">
+            <p>{{iteamjewelry.name}}</p>
+            <a href="{{iteamjewelry.url}}">{{iteamjewelry.description}}</a>
+            <p><b>{{iteamjewelry.cost}} USD</b></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Item slider-->
+  <div class="container">
+    <h4>BEST SELLER</h4>
+    <div class="row" *ngIf="bestseller">
+      <div class="col-xs-12 col-sm-12 col-md-12" >
+        <div class="carousel carousel-showmanymoveone slide" id="itemslider">
+          <div class="carousel-inner">
+  
+            <div class="item active">
+              <div class="col-xs-6 col-sm-4 col-md-2" *ngFor="let iteambestseller of bestseller">
+                <a href="{{iteambestseller.url}}"><img src="{{iteambestseller.imgpath}}" class="img-responsive center-block"></a>
+                <p class="text-center"><a href="{{iteambestseller.url}}">{{iteambestseller.description}}</a></p>
+                <h5 class="text-center">{{iteambestseller.cost}} USD</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<!-- <div class="container">
+  <h4>BEST SELLER</h4>
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12">
+      <div class="carousel carousel-showmanymoveone slide" id="itemslider">
+        <div class="carousel-inner">
+
+          <div class="item active">
+            <div class="col-xs-12 col-sm-6 col-md-2">
+              <a routerLink="/chain"><img src="../assets/images/home/bestseller/1.jpg" class="img-responsive center-block"></a>
+              <p class="text-center"><a routerLink="/chain">8ct White Gold Diamond Initial A Bracelet</a></p>
+              <h5 class="text-center">$620</h5>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="col-xs-12 col-sm-6 col-md-2">
+              <a routerLink="/wedding"><img src="../assets/images/home/bestseller/2.jpg" class="img-responsive center-block"></a>
+              <p class="text-center"><a href="#">Hoopla 18ct Gold Diamond Hoop Earringsa</a></p>
+              <h5 class="text-center">$1,020</h5>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="col-xs-12 col-sm-6 col-md-2">
+              <a href="#"><img src="../assets/images/home/bestseller/3.jpg" class="img-responsive center-block"></a>
+              <p class="text-center"><a href="#">18ct Gold Diamond "The Weeping Song" Charm</a></p>
+              <h5 class="text-center">$1,200</h5>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="col-xs-12 col-sm-6 col-md-2">
+              <a href="#"><img src="../assets/images/home/bestseller/4.jpg" class="img-responsive center-block"></a>
+              <p class="text-center"><a href="#">18ct Gold Diamond Initial B Pendant</a></p>
+              <h5 class="text-center">$510</h5>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="col-xs-12 col-sm-6 col-md-2">
+              <a href="#"><img src="../assets/images/home/bestseller/5.jpg" class="img-responsive center-block"></a>
+              <p class="text-center"><a href="#">Hoopla 18ct Rose Gold Pearl Earrings</a></p>
+              <h5 class="text-center">$1,180</h5>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="col-xs-12 col-sm-6 col-md-2">
+              <a href="#"><img src="../assets/images/home/bestseller/6.jpg" class="img-responsive center-block"></a>
+              <p class="text-center"><a href="#">18ct Gold Ruby & Sapphire Charm</a></p>
+              <h5 class="text-center">$2,900</h5>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="col-xs-12 col-sm-6 col-md-2">
+              <a href="#"><img src="../assets/images/home/bestseller/7.jpg" class="img-responsive center-block"></a>
+              <p class="text-center"><a href="#">A pair of 18ct Gold Diamond Initial C Stud</a></p>
+              <h5 class="text-center">$440</h5>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="col-xs-12 col-sm-6 col-md-2">
+              <a href="#"><img src="../assets/images/home/bestseller/8.jpg" class="img-responsive center-block"></a>
+              <p class="text-center"><a href="#">Hoopla 18ct Gold Hand of Fatima Necklace</a></p>
+              <h5 class="text-center">$1,340</h5>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="col-xs-12 col-sm-6 col-md-2">
+              <a href="#"><img src="../assets/images/home/bestseller/9.jpg" class="img-responsive center-block"></a>
+              <p class="text-center"><a href="#">18ct Gold Sapphire "Mermaids" Charm</a></p>
+              <h5 class="text-center">$2,400</h5>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div> -->

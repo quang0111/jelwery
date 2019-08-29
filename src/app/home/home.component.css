@@ -1,0 +1,34 @@
+
+div.caption p{
+	text-align: center;
+	color: orange;
+}
+div.caption a{
+	text-decoration: none;
+	color: black;
+}
+div.caption a:hover{
+	color: gray;
+}	
+div p.text-center a{
+	text-decoration: none;
+	color: black;
+}
+div p.text-center a:hover{
+	color: gray;	
+}
+div h5.text-center{
+	color: orange;
+}
+#tham-khao{
+	margin-top: 30px;
+	border-bottom: 1px solid brown;
+	border-top: 1px solid brown;
+}
+article div .card-title{
+	font-weight: bold;
+	color: black;
+}
+article div p{
+margin-left: auto;
+}

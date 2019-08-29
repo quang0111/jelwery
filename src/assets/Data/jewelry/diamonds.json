@@ -1,0 +1,149 @@
+[
+    {
+        "id":1,
+        "description":"Diamonds ring with white gold diamond 14k KITTAN'S wishes DDDDW002689",
+        "cost": "20,500",
+        "imgpath": "../assets/images/jewelry/diamonds/anhhienthi_diamonds/anh1.png",
+        "url" : "/diamonds/detail-diamonds"
+
+    },
+    {
+        "id": 2,
+        "description":"Diamonds ring with white gold diamond 14k KITTAN'S wishes DDDDW002689",
+        "cost": "6,400",
+        "imgpath": "../assets/images/jewelry/diamonds/anhhienthi_diamonds/anh2.png",
+        "url" : "/diamonds/detail-diamonds"
+    },   
+    {
+        "id": 3,
+        "description":"Diamonds ring with white gold diamond 14k KITTAN'S wishes DDDDW002689",
+        "cost": "13,400",
+        "imgpath": "../assets/images/jewelry/diamonds/anhhienthi_diamonds/anh3.png",
+        "url" : "/diamonds/detail-diamonds"
+    },
+    {
+        "id": 4,
+        "name": "EARRINGS",
+        "description":"Diamonds ring with white gold diamond 14k KITTAN'S wishes DDDDW002689",
+        "cost": "25,400",
+        "imgpath": "../assets/images/jewelry/diamonds/anhhienthi_diamonds/anh4.png",
+        "url" : "/diamonds/detail-diamonds"
+    },
+    {
+        "id":5,
+        "description":"Diamonds ring with white gold diamond 14k KITTAN'S wishes DDDDW002689",
+        "cost": "25,400",
+        "imgpath": "../assets/images/jewelry/diamonds/anhhienthi_diamonds/anh1.png",
+        "url" : "/diamonds/detail-diamonds"
+    },
+    {
+        "id": 6,
+        "description":"Diamonds ring with white gold diamond 14k KITTAN'S wishes DDDDW002689",
+        "cost": "13,400",
+        "imgpath": "../assets/images/jewelry/diamonds/anhhienthi_diamonds/anh2.png",
+        "url" : "/diamonds/detail-diamonds"
+    },   
+    {
+        "id": 7,
+        "description":"Diamonds ring with white gold diamond 14k KITTAN'S wishes DDDDW002689",
+        "cost": "20,500",
+        "imgpath": "../assets/images/jewelry/diamonds/anhhienthi_diamonds/anh3.png",
+        "url" : "/diamonds/detail-diamonds"
+    },
+    {
+        "id": 8,
+        "description":"Diamonds ring with white gold diamond 14k KITTAN'S wishes DDDDW002689",
+        "cost": "16,400",
+        "imgpath": "../assets/images/jewelry/diamonds/anhhienthi_diamonds/anh4.png",
+        "url" : "/diamonds/detail-diamonds"
+    },
+    {
+        "id":9,
+        "description":"Diamonds ring with white gold diamond 14k KITTAN'S wishes DDDDW002689",
+        "cost": "20,500",
+        "imgpath": "../assets/images/jewelry/diamonds/anhhienthi_diamonds/anh1.png",
+        "url" : "/diamonds/detail-diamonds"
+
+    },
+    {
+        "id": 10,
+        "description":"Diamonds ring with white gold diamond 14k KITTAN'S wishes DDDDW002689",
+        "cost": "6,400",
+        "imgpath": "../assets/images/jewelry/diamonds/anhhienthi_diamonds/anh2.png",
+        "url" : "/diamonds/detail-diamonds"
+    },   
+    {
+        "id": 11,
+        "description":"Diamonds ring with white gold diamond 14k KITTAN'S wishes DDDDW002689",
+        "cost": "13,400",
+        "imgpath": "../assets/images/jewelry/diamonds/anhhienthi_diamonds/anh3.png",
+        "url" : "/diamonds/detail-diamonds"
+    },
+    {
+        "id": 12,
+        "name": "EARRINGS",
+        "description":"Diamonds ring with white gold diamond 14k KITTAN'S wishes DDDDW002689",
+        "cost": "25,400",
+        "imgpath": "../assets/images/jewelry/diamonds/anhhienthi_diamonds/anh4.png",
+        "url" : "/diamonds/detail-diamonds"
+    },
+    {
+        "id":13,
+        "description":"Diamonds ring with white gold diamond 14k KITTAN'S wishes DDDDW002689",
+        "cost": "25,400 ",
+        "imgpath": "../assets/images/jewelry/diamonds/anhhienthi_diamonds/anh1.png",
+        "url" : "/diamonds/detail-diamonds"
+
+    },
+    {
+        "id": 14,
+        "description":"Diamonds ring with white gold diamond 14k KITTAN'S wishes DDDDW002689",
+        "cost": "13,400",
+        "imgpath": "../assets/images/jewelry/diamonds/anhhienthi_diamonds/anh2.png",
+        "url" : "/diamonds/detail-diamonds"
+    },   
+    {
+        "id": 15,
+        "description":"Diamonds ring with white gold diamond 14k KITTAN'S wishes DDDDW002689",
+        "cost": "20,500",
+        "imgpath": "../assets/images/jewelry/diamonds/anhhienthi_diamonds/anh3.png",
+        "url" : "/diamonds/detail-diamonds"
+    },
+    {
+        "id": 16,
+        "description":"Diamonds ring with white gold diamond 14k KITTAN'S wishes DDDDW002689",
+        "cost": "16,400",
+        "imgpath": "../assets/images/jewelry/diamonds/anhhienthi_diamonds/anh4.png",
+        "url" : "/diamonds/detail-diamonds"
+    },
+    {
+        "id":17,
+        "description":"Diamonds ring with white gold diamond 14k KITTAN'S wishes DDDDW002689",
+        "cost": "20,500",
+        "imgpath": "../assets/images/jewelry/diamonds/anhhienthi_diamonds/anh1.png",
+        "url" : "/diamonds/detail-diamonds"
+
+    },
+    {
+        "id": 18,
+        "description":"Diamonds ring with white gold diamond 14k KITTAN'S wishes DDDDW002689",
+        "cost": "6,400",
+        "imgpath": "../assets/images/jewelry/diamonds/anhhienthi_diamonds/anh2.png",
+        "url" : "/diamonds/detail-diamonds"
+    },   
+    {
+        "id": 19,
+        "description":"Diamonds ring with white gold diamond 14k KITTAN'S wishes DDDDW002689",
+        "cost": "13,400",
+        "imgpath": "../assets/images/jewelry/diamonds/anhhienthi_diamonds/anh3.png",
+        "url" : "/diamonds/detail-diamonds"
+    },
+    {
+        "id": 20,
+        "name": "EARRINGS",
+        "description":"Diamonds ring with white gold diamond 14k KITTAN'S wishes DDDDW002689",
+        "cost": "25,400",
+        "imgpath": "../assets/images/jewelry/diamonds/anhhienthi_diamonds/anh4.png",
+        "url" : "/diamonds/detail-diamonds"
+    }
+]

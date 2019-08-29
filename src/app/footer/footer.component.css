@@ -1,0 +1,29 @@
+#tham-khao{
+	margin-top: 30px;
+	border-bottom: 1px solid brown;
+	border-top: 1px solid brown;
+}
+article div .card-title{
+	font-weight: bold;
+	color: black;
+}
+article div p{
+margin-left: auto;
+}
+/* gia nhập cùng */
+section div span.col-md-4{
+    color:black;
+    font-size: 35px;
+}
+section div nav ol li a{
+    text-decoration: none;
+}
+section div nav ol li a:hover{
+   color: orange;
+}
+section div h5.text-center{
+    color: orange;
+}
+.card{
+    text-align: center;
+}

@@ -1,0 +1,149 @@
+[
+    {
+        "id":1,
+        "description":"Rings male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "20,500",
+        "imgpath": "../assets/images/jewelry/rings/anhhienthi_rings/anh1.png",
+        "url" : "/rings/detail-rings"
+
+    },
+    {
+        "id": 2,
+        "description":"Rings male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "6,400",
+        "imgpath": "../assets/images/jewelry/rings/anhhienthi_rings/anh2.png",
+        "url" : "/rings/detail-rings"
+    },   
+    {
+        "id": 3,
+        "description":"Rings male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "13,400",
+        "imgpath": "../assets/images/jewelry/rings/anhhienthi_rings/anh3.png",
+        "url" : "/rings/detail-rings"
+    },
+    {
+        "id": 4,
+        "name": "EARRINGS",
+        "description":"Rings male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "25,400",
+        "imgpath": "../assets/images/jewelry/rings/anhhienthi_rings/anh4.png",
+        "url" : "/rings/detail-rings"
+    },
+    {
+        "id":5,
+        "description":"Rings male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "25,400",
+        "imgpath": "../assets/images/jewelry/rings/anhhienthi_rings/anh5.png",
+        "url" : "/rings/detail-rings"
+    },
+    {
+        "id": 6,
+        "description":"Rings male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "13,400",
+        "imgpath": "../assets/images/jewelry/rings/anhhienthi_rings/anh6.png",
+        "url" : "/rings/detail-rings"
+    },   
+    {
+        "id": 7,
+        "description":"Rings male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "20,500",
+        "imgpath": "../assets/images/jewelry/rings/anhhienthi_rings/anh7.png",
+        "url" : "/rings/detail-rings"
+    },
+    {
+        "id": 8,
+        "description":"Rings male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "16,400",
+        "imgpath": "../assets/images/jewelry/rings/anhhienthi_rings/anh8.png",
+        "url" : "/rings/detail-rings"
+    },
+    {
+        "id":9,
+        "description":"Rings male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "20,500",
+        "imgpath": "../assets/images/jewelry/rings/anhhienthi_rings/anh9.png",
+        "url" : "/rings/detail-rings"
+
+    },
+    {
+        "id": 10,
+        "description":"Rings male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "6,400",
+        "imgpath": "../assets/images/jewelry/rings/anhhienthi_rings/anh10.png",
+        "url" : "/rings/detail-rings"
+    },   
+    {
+        "id": 11,
+        "description":"Rings male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "13,400",
+        "imgpath": "../assets/images/jewelry/rings/anhhienthi_rings/anh11.png",
+        "url" : "/rings/detail-rings"
+    },
+    {
+        "id": 12,
+        "name": "EARRINGS",
+        "description":"Rings male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "25,400",
+        "imgpath": "../assets/images/jewelry/rings/anhhienthi_rings/anh12.png",
+        "url" : "/rings/detail-rings"
+    },
+    {
+        "id":13,
+        "description":"Rings male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "25,400 ",
+        "imgpath": "../assets/images/jewelry/rings/anhhienthi_rings/anh13.png",
+        "url" : "/rings/detail-rings"
+
+    },
+    {
+        "id": 14,
+        "description":"Rings male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "13,400",
+        "imgpath": "../assets/images/jewelry/rings/anhhienthi_rings/anh14.png",
+        "url" : "/rings/detail-rings"
+    },   
+    {
+        "id": 15,
+        "description":"Rings male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "20,500",
+        "imgpath": "../assets/images/jewelry/rings/anhhienthi_rings/anh15.png",
+        "url" : "/rings/detail-rings"
+    },
+    {
+        "id": 16,
+        "description":"Rings male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "16,400",
+        "imgpath": "../assets/images/jewelry/rings/anhhienthi_rings/anh16.png",
+        "url" : "/rings/detail-rings"
+    },
+    {
+        "id":17,
+        "description":"Rings male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "20,500",
+        "imgpath": "../assets/images/jewelry/rings/anhhienthi_rings/anh17.png",
+        "url" : "/rings/detail-rings"
+
+    },
+    {
+        "id": 18,
+        "description":"Rings male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "6,400",
+        "imgpath": "../assets/images/jewelry/rings/anhhienthi_rings/anh18.png",
+        "url" : "/rings/detail-rings"
+    },   
+    {
+        "id": 19,
+        "description":"Rings male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "13,400",
+        "imgpath": "../assets/images/jewelry/rings/anhhienthi_rings/anh19.png",
+        "url" : "/rings/detail-rings"
+    },
+    {
+        "id": 20,
+        "name": "EARRINGS",
+        "description":"Rings male 14k white gold KITTAN'S general double DD00W000602",
+        "cost": "25,400",
+        "imgpath": "../assets/images/jewelry/rings/anhhienthi_rings/anh20.png",
+        "url" : "/rings/detail-rings"
+    }
+]
